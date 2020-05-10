@@ -1,7 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import { Helmet } from "react-helmet"
-import Tag from '../components/Tag';
 
 require(`katex/dist/katex.min.css`)
 require("../styles/prism-base16-ateliersulphurpool.light.css")
@@ -12,7 +11,7 @@ const Template = ({data}) => {
   const date = markdownRemark.frontmatter.date
   const tags = markdownRemark.frontmatter.tags
   const title = markdownRemark.frontmatter.title
-  
+
   return (
     <section>
       <Helmet>
@@ -26,17 +25,19 @@ const Template = ({data}) => {
           <div className="column is-half" style={{padding: "2rem"}}>
             <br />
             <div className="generated">
-              <p className="is-size-7" style={{marginBottom: "0.5rem"}}>
-                Tags: {tags.map(tag => <Tag name={tag} />)} 
-                <a href="/blog"> <span style={{marginRight: "0.2rem"}} class="tag is-light is-link"> all </span> </a>
-              </p>
+
+
               <p className="is-size-7" style={{marginBottom: "0.5rem"}}>Last Edit: {date}</p>
               <div style={{marginTop: "1rem"}} dangerouslySetInnerHTML={{__html: html}}/>
             </div>
             <hr style={{marginTop: "2.5rem"}}/>
             <div className="level">
-              <p className="is-size-7" style={{marginBottom: "0.5rem"}}>Thanks for reading!</p>
-              <a href="/blog"><span class="tag is-link is-light is-medium">More Posts</span></a>
+
+            <a href="/projects"><button class="button is-outlined"><span class="icon">
+            <i class="fas fa-rocket"></i>
+            </span>
+            <span>More Projects</span>
+            </button></a>
             </div>
           </div>
           <div className="column" />
@@ -54,7 +55,6 @@ export const query = graphql`
       frontmatter {
         title
         date
-        tags
       }
     }
   }
