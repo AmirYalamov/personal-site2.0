@@ -1,9 +1,10 @@
 ---
 path: "/personal-site2.0/currency-predict"
-date: "2018-01-07"
+date: "January 7th, 2018"
 title: "currency-predict"
 tags: []
 excerpt: "A Program that uses machine learning to predict the next closing price of a cryptocurrency"
+image: "/img/crypto icon"
 ---
 
 # currency-predict
@@ -14,7 +15,7 @@ excerpt: "A Program that uses machine learning to predict the next closing price
 <br>
     <p> Over my winter break in 2017 I developed an interest in cryptocurrency, and I built a machine learning program that would predict the future closing price of any given cryptocurrency.</p>
     <p class="mb-0">I did this by feeding closing price data from a cryptocurrency exchange API into a Multilayer Perceptron model.
-      <br><br>I used the following technologies:<br><br>
+      <br><br>I used the following technologies:<br>
       <ul>
       <li>CryptoCompare API</li>
       <li>NumPy library</li>

@@ -16,10 +16,13 @@ const Experience = () => {
           <div className="column is-half">
           	<Nav />
 
-			<h1 class="title"> experience </h1>
+			<h1 class="title"> Experience </h1>
 	          <p>
-	            lorum ipsum
+	            In my first year at university I wanted to get involved in the CS community at Western.
+              <br /><br />
+              As the first year rep, I acted as the liaison between the club and all the first year students. I was also part of the sub-committee that rewrote the organization's constitution, in order to establish a framework for success and growth for the club's future.
 	          </p>
+
             </div>
 	        <div className="column"></div>
 	      </div>

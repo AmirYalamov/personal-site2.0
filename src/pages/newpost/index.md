@@ -1,6 +1,6 @@
 ---
 path: "/blog/site"
-date: "2020-05-08"
+date: "May 8th, 2020"
 title: "New Post"
 tags: ['programming']
 excerpt: "How I Built This Site"
