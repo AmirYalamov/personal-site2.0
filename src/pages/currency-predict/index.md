@@ -5,6 +5,7 @@ title: "currency-predict"
 tags: []
 excerpt: "A Program that uses machine learning to predict the next closing price of a cryptocurrency"
 image: "/img/crypto icon"
+tag: ['project']
 ---
 
 # currency-predict

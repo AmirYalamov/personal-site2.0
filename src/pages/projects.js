@@ -29,11 +29,16 @@ const Projects = ({data}) => {
                 const {frontmatter} = edge.node;
                 return (
 
-                  <div className="box" key={frontmatter.path} style={{color: "grey", marginBottom: "1rem"}}>
-                    <span style={{fontSize: "0.75rem"}}>{frontmatter.date} </span> <br />
+                  <div className="box"
+                    key={frontmatter.path} style={{color: "black", marginBottom: "1rem"}}>
+                    <span style={{fontSize: "0.75rem"}}>
+                    {frontmatter.date}
+                    </span>
+                    <br />
                     <Link to={frontmatter.path}>
                     <p>{frontmatter.title}</p>
                     </Link>
+
                     <p style={{fontSize: "0.85rem", marginBottom: "0.5rem", marginTop: "0.1rem"}}>{frontmatter.excerpt}</p>
 
                   </div>
@@ -50,9 +55,10 @@ const Projects = ({data}) => {
 };
 
 export const query = graphql`
-  query BlogQuery {
+  query projectsQuery {
     allMarkdownRemark (
       sort: {order: DESC, fields: [frontmatter___date]}
+      filter: {frontmatter: {tag: {eq: "project"}}}
     ) {
       edges {
         node {
@@ -61,7 +67,7 @@ export const query = graphql`
             excerpt
             path
             date
-
+            tag
           }
         }
       }

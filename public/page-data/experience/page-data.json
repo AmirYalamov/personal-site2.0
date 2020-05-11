@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-experience-js","path":"/experience/","result":{"pageContext":{}}}
+{"componentChunkName":"component---src-pages-experience-js","path":"/experience/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"New Post","excerpt":"How I Built This Site","path":"/blog/site","date":"May 8th, 2020","tag":["experience"]}}}]}},"pageContext":{}}}
