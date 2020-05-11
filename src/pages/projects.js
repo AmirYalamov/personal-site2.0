@@ -70,7 +70,6 @@ export const query = graphql`
             path
             date
             tag
-
           }
         }
       }
