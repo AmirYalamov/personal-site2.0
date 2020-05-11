@@ -30,7 +30,7 @@ const createTagPages = (createPage, posts) => {
 
   tags.forEach(tagName => {
     const posts = postsByTag[tagName]
-    
+
     createPage({
       path: `/tags/${tagName}`,
       component: singleTagIndexTemplate,

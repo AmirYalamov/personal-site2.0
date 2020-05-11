@@ -3,13 +3,13 @@ path: "/personal-site2.0/currency-predict"
 date: "January 7th, 2018"
 title: "currency-predict"
 excerpt: "A Program that uses machine learning to predict the next closing price of a cryptocurrency"
-image: "img/crypto-icon"
+image: "./crypto-icon.png"
 tag: ['project']
 ---
 
 # currency-predict
 
-<img class="align-self-center mr-3" src="/img/crypto icon" width="120" height="120" alt="currency-predict">
+<img class="align-self-center mr-3" src="/img/crypto-icon.png" width="120" height="120" alt="currency-predict">
 
 <div class="media-body">
 <br>

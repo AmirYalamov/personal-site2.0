@@ -32,6 +32,8 @@ const Projects = ({data}) => {
 
                   <div className="box"
 
+
+
                     key={frontmatter.path} style={{color: "black", marginBottom: "1rem"}}>
                     <span style={{fontSize: "0.75rem"}}>
                     {frontmatter.date}
@@ -70,6 +72,13 @@ export const query = graphql`
             path
             date
             tag
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

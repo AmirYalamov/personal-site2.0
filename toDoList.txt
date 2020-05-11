@@ -1,7 +1,7 @@
 To do for Monday, May 11th, 2020:
 
 [] add thumbnail support for blog post cards
-    [] look at https://www.youtube.com/watch?v=XpnZ2e7Jns0 video and see how he adds thumbnails for blog posts
+    [x] look at https://www.youtube.com/watch?v=XpnZ2e7Jns0 video and see how he adds thumbnails for blog posts
     [] find out how to add Bulma Box element int JSX
     [] check if there is better column width once thumbails added
 [] add projects and experiences in blog posts
