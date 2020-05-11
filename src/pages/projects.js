@@ -3,6 +3,7 @@ import { graphql, Link } from 'gatsby';
 import { Helmet } from "react-helmet"
 import Nav from '../components/Nav';
 import Tag from '../components/Tag';
+import Img from "gatsby-image"
 
 const Projects = ({data}) => {
   const { edges } = data.allMarkdownRemark;
@@ -30,6 +31,7 @@ const Projects = ({data}) => {
                 return (
 
                   <div className="box"
+
                     key={frontmatter.path} style={{color: "black", marginBottom: "1rem"}}>
                     <span style={{fontSize: "0.75rem"}}>
                     {frontmatter.date}
@@ -68,6 +70,7 @@ export const query = graphql`
             path
             date
             tag
+
           }
         }
       }

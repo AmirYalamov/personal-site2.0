@@ -10,10 +10,10 @@ module.exports = {
     description: "Amir Yalamov's Personal Website"
   },
   plugins: [
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-sharp`
     },
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {

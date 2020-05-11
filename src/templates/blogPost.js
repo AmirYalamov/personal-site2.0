@@ -33,10 +33,10 @@ const Template = ({data}) => {
             <hr style={{marginTop: "2.5rem"}}/>
             <div className="level">
 
-            <a href="/projects"><button class="button is-outlined"><span class="icon">
-            <i class="fas fa-rocket"></i>
+            <a href="javascript:history.back()"><button class="button is-outlined"><span class="icon">
+            <i class="fas fa-reply"></i>
             </span>
-            <span>More Projects</span>
+            <span>Go Back</span>
             </button></a>
             </div>
           </div>
