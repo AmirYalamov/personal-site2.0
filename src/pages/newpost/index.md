@@ -1,5 +1,5 @@
 ---
-path: "/blog/site"
+path: "/personal-site2.0/newpost"
 date: "May 8th, 2020"
 title: "New Post"
 tags: ['programming']
