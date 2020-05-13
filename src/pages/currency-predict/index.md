@@ -1,6 +1,6 @@
 ---
 path: "/personal-site2.0/currency-predict"
-date: "January 7th, 2018"
+date: "2018-01-07"
 title: "currency-predict"
 excerpt: "A Program that uses machine learning to predict the next closing price of a cryptocurrency"
 image: "crypto-icon.png"

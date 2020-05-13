@@ -18,3 +18,10 @@ To do for Tuesday, May 12th, 2020:
     [] check if there is better column width once thumbails added
 
 -------------------------------------------------------------------------------------------------------------------
+
+To do for Wednesday, May 13th, 2020:
+
+[] check on GitHub Gatsby issue status
+[] put github icon for "GitHub Link" link on  project posts
+
+-------------------------------------------------------------------------------------------------------------------

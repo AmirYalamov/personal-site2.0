@@ -3,7 +3,6 @@ import { graphql, Link } from 'gatsby';
 import { Helmet } from "react-helmet"
 import Nav from '../components/Nav';
 import Tag from '../components/Tag';
-import Img from "gatsby-image";
 
 const Projects = ({data}) => {
   const { edges } = data.allMarkdownRemark;
@@ -22,17 +21,15 @@ const Projects = ({data}) => {
             <Nav />
 
             <h1 className="title"> Projects </h1>
-            <p>My project interests include back end development, system tools, and application of cool APIs. Here you can read a bit more about them and how they came about.</p>
+            <p>My project interests include back end development, system tools, and application of cool APIs. Here I can write a bit more about them and how they came about.</p>
             <p>
               <br />
 
               {edges.map(edge => {
                 const {frontmatter} = edge.node;
-
                 return (
 
                   <div className="box"
-
                     key={frontmatter.path} style={{color: "black", marginBottom: "1rem"}}>
                     <span style={{fontSize: "0.75rem"}}>
                     {frontmatter.date}
@@ -71,13 +68,6 @@ export const query = graphql`
             path
             date
             tag
-            image {
-              childImageSharp {
-                fluid(maxWidth: 800) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
           }
         }
       }
