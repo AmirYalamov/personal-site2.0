@@ -3,7 +3,7 @@ path: "/personal-site2.0/currency-predict"
 date: "January 7th, 2018"
 title: "currency-predict"
 excerpt: "A Program that uses machine learning to predict the next closing price of a cryptocurrency"
-image: "img/crypto-icon"
+image: "./img/crypto-icon.png"
 tag: ['project']
 ---
 
