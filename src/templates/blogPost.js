@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import { Helmet } from "react-helmet"
+import Img from "gatsby-image"
 
 require(`katex/dist/katex.min.css`)
 require("../styles/prism-base16-ateliersulphurpool.light.css")

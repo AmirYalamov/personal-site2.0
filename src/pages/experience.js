@@ -21,7 +21,7 @@ const Experience = ({data}) => {
             <Nav />
 
             <h1 className="title"> Experience </h1>
-            <p>My project interests include back end development, system tools, and application of cool APIs. Here I can write a bit more about them and how they came about.</p>
+            <p>My experience ranges from industry work with risk analysis and automation to startup backend tech development to leadership at Western. Here you can read more about my how all my work has gone and what I've learned from my experience.</p>
             <p>
               <br />
 

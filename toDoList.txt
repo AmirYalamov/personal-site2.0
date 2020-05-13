@@ -1,3 +1,5 @@
+-------------------------------------------------------------------------------------------------------------------
+
 To do for Monday, May 11th, 2020:
 
 [] add thumbnail support for blog post cards
@@ -5,3 +7,21 @@ To do for Monday, May 11th, 2020:
     [] find out how to add Bulma Box element int JSX
     [] check if there is better column width once thumbails added
 [] add projects and experiences in blog posts
+
+-------------------------------------------------------------------------------------------------------------------
+
+To do for Tuesday, May 12th, 2020:
+
+[] add thumbnail support for blog post cards
+    [] find out how to get queried image file into JSX code
+    [] find out how to add Bulma Box element int JSX
+    [] check if there is better column width once thumbails added
+
+-------------------------------------------------------------------------------------------------------------------
+
+To do for Wednesday, May 13th, 2020:
+
+[] check on GitHub Gatsby issue status
+[] put github icon for "GitHub Link" link on  project posts
+
+-------------------------------------------------------------------------------------------------------------------
