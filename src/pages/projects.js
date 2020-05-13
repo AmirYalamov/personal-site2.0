@@ -8,10 +8,6 @@ import Img from "gatsby-image";
 const Projects = ({data}) => {
   const { edges } = data.allMarkdownRemark;
 
-  let post = data.markdownRemark
-  let featuredImgFluid = post.edges.node.frontmatter.image.childImageSharp.fluid
-
-
   return (
     <section className="section" style={{"paddingTop": "1rem"}}>
       <Helmet>
@@ -24,9 +20,6 @@ const Projects = ({data}) => {
           <div className="column"> </div>
           <div className="column is-half">
             <Nav />
-
-            <Img fluid={featuredImgFluid} />
-
 
             <h1 className="title"> Projects </h1>
             <p>My project interests include back end development, system tools, and application of cool APIs. Here you can read a bit more about them and how they came about.</p>
