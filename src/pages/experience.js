@@ -26,6 +26,7 @@ const Experience = ({data}) => {
               <br />
 
               {edges.map(edge => {
+
                 const {frontmatter} = edge.node;
                 return (
 
@@ -68,6 +69,13 @@ export const query = graphql`
             path
             date
             tag
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

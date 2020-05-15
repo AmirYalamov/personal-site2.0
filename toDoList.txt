@@ -1,3 +1,5 @@
+------------------------------------------------------------------------------------------------------------------------
+
 To do for Monday, May 11th, 2020:
 
 [] add thumbnail support for blog post cards
@@ -5,3 +7,26 @@ To do for Monday, May 11th, 2020:
     [] find out how to add Bulma Box element int JSX
     [] check if there is better column width once thumbails added
 [] add projects and experiences in blog posts
+
+------------------------------------------------------------------------------------------------------------------------
+
+To do for Thursday, May 14th, 2020:
+
+[x] add thumbnail support for blog post cards
+    [x] test if image can be displayed properly
+    [x] find out how to add Bulma Box element int JSX
+    [x] check if there is better column width once thumbails added
+[] add projects and experiences in blog posts (add folders back to repo)
+[] add icon for "GitHub Link" text
+
+------------------------------------------------------------------------------------------------------------------------
+
+To do for Friday, May 15th, 2020:
+
+[] add icon for "GitHub Link" text in each project blog entry
+[] decide on how to display experience
+    [] figure out if possible to have blog style and query images as well
+[] brush up and edit current project blog posts
+[] add YalamovPing project
+
+------------------------------------------------------------------------------------------------------------------------

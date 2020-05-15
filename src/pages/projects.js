@@ -19,7 +19,7 @@ const Projects = ({data}) => {
       <div className="container">
         <div className="columns">
           <div className="column"> </div>
-          <div className="column is-half">
+          <div className="column is-two-fifths">
             <Nav />
 
             <h1 className="title"> Projects </h1>
@@ -33,19 +33,35 @@ const Projects = ({data}) => {
 
                 return (
 
-                  <div className="box"
+                  <div class="box">
+                    <article class="media">
+                      <div class="media-left" style={{"paddingTop": "1rem"}}>
+                        <figure class="image is-64x64">
+                        <Img fluid={featuredImgFluid} />
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <div class="content">
+                          <p>
+                            <Link to={frontmatter.path}>
+                            <p>{frontmatter.title}</p>
+                            </Link>
 
-                    key={frontmatter.path} style={{color: "black", marginBottom: "1rem"}}>
-                    <span style={{fontSize: "0.75rem"}}>
-                    {frontmatter.date}
-                    </span>
-                    <br />
-                    <Link to={frontmatter.path}>
-                    <p>{frontmatter.title}</p>
-                    </Link>
+                            <p style={{fontSize: "0.85rem", marginBottom: "0.5rem", marginTop: "0.1rem"}}>{frontmatter.excerpt}</p>
+                          </p>
+                        </div>
+                        <nav class="level is-mobile">
+                          <div class="level-left">
 
-                    <p style={{fontSize: "0.85rem", marginBottom: "0.5rem", marginTop: "0.1rem"}}>{frontmatter.excerpt}</p>
-
+                            <a class="level-item">
+                              <span class="icon is-small">
+                              <i class="fab fa-github"></i>
+                              </span>
+                            </a>
+                          </div>
+                        </nav>
+                      </div>
+                    </article>
                   </div>
                 )
               })}
