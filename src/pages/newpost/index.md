@@ -1,9 +1,10 @@
 ---
-path: "/blog/site"
+path: "/blog/newpost"
 date: "May 8th, 2020"
 title: "New Post"
 tags: ['programming']
 excerpt: "How I Built This Site"
+image: "brutus-the-bee.png"
 tag: ['experience']
 ---
 
