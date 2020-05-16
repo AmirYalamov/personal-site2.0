@@ -17,4 +17,4 @@ We are all familiar with the incident of the twitter NASA girl who lost her inte
 
 Our platform consists of an Android keyboard employing a sentiment analysis algorithm and a computer vision program. Right before a user posts something, HADP will warn the user on how controversial their post might be based on phrases, topics, and media in the post by employing the trained algorithm from the Clarifai API by performing image analysis and natural langauge processing.
 
-<a href="https://github.com/AmirYalamov/Surgeon-Helping-Hand"><i class="fab fa-github fa-2x"></a>
+<a href="https://github.com/AmirYalamov/HADP"><i class="fab fa-github fa-2x"></a>

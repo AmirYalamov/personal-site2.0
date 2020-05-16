@@ -23,10 +23,10 @@ To do for Thursday, May 14th, 2020:
 
 To do for Friday, May 15th, 2020:
 
-[] add icon for "GitHub Link" text in each project blog entry
-[] decide on how to display experience
-    [] figure out if possible to have blog style and query images as well
-[] brush up and edit current project blog posts
-[] add YalamovPing project
+[x] add icon for "GitHub Link" text in each project blog entry
+[x] decide on how to display experience
+    [x] figure out if possible to have blog style and query images as well
+[x] brush up and edit current project blog posts
+[x] add YalamovPing project
 
 ------------------------------------------------------------------------------------------------------------------------

@@ -5,7 +5,7 @@ title: "New Post"
 tags: ['programming']
 excerpt: "How I Built This Site"
 image: "brutus-the-bee.png"
-tag: ['experience']
+tag: ['']
 ---
 
 # Personal Website

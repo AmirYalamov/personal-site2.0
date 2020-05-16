@@ -52,11 +52,6 @@ const Experience = ({data}) => {
                         <nav class="level is-mobile">
                           <div class="level-left">
 
-                            <a class="level-item">
-                              <span class="icon is-small">
-                              <i class="fab fa-github"></i>
-                              </span>
-                            </a>
                           </div>
                         </nav>
                       </div>
