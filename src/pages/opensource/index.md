@@ -8,6 +8,11 @@ tag: ['experience']
 ---
 
 # Personal Website
-> How I Built This Site
 
-It's pretty commonplace for computer scientists (and people working in tech) to maintain a website displaying a portfolio and a blog conveying technical thoughts. As you can see, I am no different. In fact, I actually purchased the domain name back in early high school when we had a teacher strike and I needed something to do.
+<img class="align-self-center mr-3" src="/img/brutus the bee" width="120" height="120" alt="Brutus The Bee">
+
+This summer I really wanted to improve my coding skills and gain some real world experience in software development. I decided that contibuting to open source would be the best way to address both my wishes.
+
+I contributed towards the back-end of the VOC project sector, which is a transpiler that converts Python bytecode to Java bytecode.
+
+My contributions included, implementing Python built-ins in Java, developing unit tests, and creating pull requests and resolving issues on GitHub

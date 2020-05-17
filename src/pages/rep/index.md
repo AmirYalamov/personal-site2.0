@@ -9,7 +9,7 @@ tag: ['experience']
 
 # First Year Representative
 
-<img class="align-self-center mr-3" src="/img/CSUS Logo" width="120" height="120" alt="HADP Logo">
+<img class="align-self-center mr-3" src="/img/CSUS Logo" width="120" height="120" alt="CSUS Logo">
 
 In my first year at university I wanted to get involved in the CS community at Western.
 
