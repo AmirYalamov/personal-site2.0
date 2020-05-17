@@ -33,7 +33,7 @@ To do for Friday, May 15th, 2020:
 
 To do for Saturday, May 16th, 2020:
 
-[] add experience posts
+[x] add experience posts
 [] look into adding a book section/blog section
 
 ------------------------------------------------------------------------------------------------------------------------

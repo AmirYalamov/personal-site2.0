@@ -23,7 +23,7 @@ const Projects = ({data}) => {
             <Nav />
 
             <h1 className="title"> Projects </h1>
-            <p>My project interests include back end development, system tools, and application of cool APIs. Here you can read a bit more about them and how they came about.</p>
+            <p>My project interests include back end development, system tools, and application of cool APIs.<br /><br /> Here you can read a bit more about them and how they came about.</p>
             <p>
               <br />
 
@@ -53,7 +53,7 @@ const Projects = ({data}) => {
                         <nav class="level is-mobile">
                           <div class="level-left">
 
-                            
+
                           </div>
                         </nav>
                       </div>

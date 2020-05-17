@@ -22,7 +22,7 @@ const Experience = ({data}) => {
             <Nav />
 
             <h1 className="title"> Experience </h1>
-            <p>My project interests include back end development, system tools, and application of cool APIs. Here I can write a bit more about them and how they came about.</p>
+            <p>My experience pretty much falls into one of three categories: software development, leadership, or business analysis.<br /><br /> Below you can read a bit about it.</p>
             <p>
               <br />
 
@@ -31,6 +31,7 @@ const Experience = ({data}) => {
                 const {frontmatter} = edge.node;
                 const featuredImgFluid = frontmatter.image.childImageSharp.fluid
                 return (
+
 
                   <div class="box">
                     <article class="media">

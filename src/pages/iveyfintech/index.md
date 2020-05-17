@@ -7,7 +7,7 @@ image: "fintech.png"
 tag: ['experience']
 ---
 
-# Personal Website
+# Developer Lead
 
 <img class="align-self-center mr-3" src="/img/Ivey FinTech 2.0" width="120" height="120" alt="Ivey Fintech">
 
