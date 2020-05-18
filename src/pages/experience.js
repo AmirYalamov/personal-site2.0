@@ -16,10 +16,10 @@ const Experience = ({data}) => {
       </Helmet>
 
       <div className="container">
+      <Nav />
         <div className="columns">
           <div className="column"> </div>
           <div className="column is-two-fifths">
-            <Nav />
 
             <h1 className="title"> Experience </h1>
             <p>My experience pretty much falls into one of three categories: software development, leadership, or business analysis.<br /><br /> Below you can read a bit about it.</p>

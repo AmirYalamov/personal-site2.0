@@ -11,10 +11,10 @@ const Index = () => {
         </Helmet>
 
 	    <div className="container">
+        <Nav />
         <div className="columns">
           <div className="column"> </div>
           <div className="column is-half">
-          	<Nav />
 
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 

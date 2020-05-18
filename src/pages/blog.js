@@ -1,35 +1,103 @@
-import React from "react"
-import { graphql } from "gatsby"
-import PostLink from "../components/post-link"
+import React from "react";
+import { graphql, Link } from 'gatsby';
+import { Helmet } from "react-helmet"
+import Nav from '../components/Nav';
+import Tag from '../components/Tag';
+import Img from "gatsby-image";
 
-const Blog = ({
-  data: {
-    allMarkdownRemark: { edges },
-  },
-}) => {
-  const Posts = edges
-    .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-    .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
+const Blog = ({data}) => {
+  const { edges } = data.allMarkdownRemark;
 
-  return <div>{Posts}</div>
-}
+  return (
+    <section className="section" style={{"paddingTop": "1rem"}}>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Blog</title>
+      </Helmet>
 
-export default Blog
+      <div className="container">
+      <Nav />
+        <div className="columns">
+          <div className="column"> </div>
+          <div className="column is-two-fifths">
 
-export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+            <h1 className="title"> Blog </h1>
+            <p>
+            <br /><br />
+            Below you can read a bit about it.</p>
+            <p>
+              <br />
+
+              {edges.map(edge => {
+
+                const {frontmatter} = edge.node;
+                const featuredImgFluid = frontmatter.image.childImageSharp.fluid
+                return (
+
+
+                  <div class="box">
+                    <article class="media">
+                      <div class="media-left" style={{"paddingTop": "1rem"}}>
+                        <figure class="image is-64x64">
+                        <Img fluid={featuredImgFluid} />
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <div class="content">
+                          <p>
+                            <Link to={frontmatter.path}>
+                            <p>{frontmatter.title}</p>
+                            </Link>
+
+                            <p style={{fontSize: "0.85rem", marginBottom: "0.5rem", marginTop: "0.1rem"}}>{frontmatter.excerpt}</p>
+                          </p>
+                        </div>
+                        <nav class="level is-mobile">
+                          <div class="level-left">
+
+                          </div>
+                        </nav>
+                      </div>
+                    </article>
+                  </div>
+                )
+              })}
+            </p>
+
+          </div>
+          <div className="column"></div>
+        </div>
+      </div>
+    </section>
+  )
+};
+
+export const query = graphql`
+  query blogQuery {
+    allMarkdownRemark (
+      sort: {order: DESC, fields: [frontmatter___date]}
+      filter: {frontmatter: {tag: {eq: "blog"}}}
+    ) {
       edges {
         node {
-          id
-          excerpt(pruneLength: 250)
           frontmatter {
-            date
-            path
             title
+            excerpt
+            path
+            date
+            tag
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
     }
   }
 `
+
+export default Blog;
