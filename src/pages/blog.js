@@ -22,9 +22,8 @@ const Blog = ({data}) => {
           <div className="column is-two-fifths">
 
             <h1 className="title"> Blog </h1>
-            <p>
-            <br /><br />
-            Below you can read a bit about it.</p>
+            <p>My thoughts on certain topics, nothing too serious.
+            </p>
             <p>
               <br />
 
