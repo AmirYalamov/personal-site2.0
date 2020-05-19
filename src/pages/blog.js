@@ -44,6 +44,7 @@ const Blog = ({data}) => {
                       <div class="media-content">
                         <div class="content">
                           <p>
+                          <span style={{fontSize: "0.75rem"}}>{frontmatter.date} </span> <br />
                             <Link to={frontmatter.path}>
                             <p>{frontmatter.title}</p>
                             </Link>

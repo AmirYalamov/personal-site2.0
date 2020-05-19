@@ -29,3 +29,4 @@ Since then, these are all the books I've read, am currently reading, and books I
 
 - *<a href="https://www.amazon.ca/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589841281&sr=1-1">Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character</a>, Richard P Feynman*
 - *<a href="https://www.amazon.ca/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K/ref=sr_1_1?keywords=primer+on+technology%5C&qid=1589841463&sr=8-1">Swipe to Unlock: The Primer on Technology and Business Strategy</a>, Parth Detroja, Aditya Agashe, Neel Mehta*
+- *<a href="https://www.amazon.ca/Lonely-Planets-Where-When-1st/dp/1786571935/ref=as_li_ss_tl?keywords=where+to+go+when&qid=1587414963&sr=8-1&linkCode=sl1&tag=roxine02-20&linkId=e938b6027a23167c5156c5cf79047e92&language=en_CA">Where To Go When</a>, Lonely Planet, Sarah Baxter, Paul Bloomfield*
