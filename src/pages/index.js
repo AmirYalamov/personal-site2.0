@@ -31,7 +31,7 @@ const Index = () => {
 
               <br /> <br />
 
-              I am currently a VP Academic for <a href="https://www.facebook.com/westerncsus/?ref=br_rs">CSUS</a>, where I am managing a portfolio of Academic Directors to create academic themed events and programs to benefit Western Computer Science students.
+              I am currently a VP Projects for <a href="https://www.facebook.com/westerncsus/?ref=br_rs">CSUS</a>. In September I will be running an open-source project that all students at Western can contribute to, as well as workshops on development and tech skills.
 
               <br /> <br />
 
