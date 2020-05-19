@@ -38,10 +38,16 @@ To do for Saturday, May 16th, 2020:
 
 ------------------------------------------------------------------------------------------------------------------------
 
-To do for Moday, May 18th, 2020:
+To do for Monday, May 18th, 2020:
 
 [x] look into adding a book section/blog section
-[] look into buying a domain name
-    [] come up with domain names
+[x] look into buying a domain name
+    [x] come up with domain names
+
+------------------------------------------------------------------------------------------------------------------------
+
+To do for Tuesday, May 19th, 2020:
+
+[] look into proper hosting
 
 ------------------------------------------------------------------------------------------------------------------------
