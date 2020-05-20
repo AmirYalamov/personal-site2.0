@@ -10,7 +10,6 @@ module.exports = {
     description: "The personal website of Amir Yalamov who studies at University of Western Ontario, and the site contains his projects, experience, and info.",
     author: "Amir Yalamov"
   },
-  pathPrefix: "/src/pages",
   plugins: [
     `gatsby-plugin-sharp`,
     {
