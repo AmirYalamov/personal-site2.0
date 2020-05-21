@@ -4,7 +4,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/AmirYalamov/amiryalamov.github.io.git',
+    repo: 'https://github.com/AmirYalamov/personal-site2.0.git',
   },
   () => {
     console.log('Deploy Complete!')
