@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 2rem` }}>
     <nav>
-        Amir Yalamov
+        
         <p class="buttons is-outlined is-centered">
 
           <a href="/"><button class="button is-outlined"> <span class="icon">
