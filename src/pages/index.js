@@ -23,7 +23,7 @@ const Index = () => {
 
               <br /> <br />
 
-              This past summer I interned at <a href="https://www.td.com/us/en/personal-banking/">TD Bank</a>, working on the Risk Management team, coding automation scripts and performing risk analysis.
+              This past summer I interned at <a href="https://www.td.com/ca/en/personal-banking/">TD Bank</a>, working on the Risk Management team, coding automation scripts and performing risk analysis.
 
               <br /> <br />
 
