@@ -19,27 +19,39 @@ const Index = () => {
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 
   	          <p>
-              My name is Amir. I am an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing a Specialization in Computer Science, with a minor in Software Engineering.
+              My name is Amir. I am an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing a Specialization in Computer Science with a minor in Software Engineering. I'm interested in theoretical computer science and building cool products.
 
               <br /> <br />
 
-              This past summer I interned at <a href="https://www.td.com/ca/en/personal-banking/">TD Bank</a>, working on the Risk Management team, coding automation scripts and performing risk analysis.
-
-              <br /> <br />
-
-              Currently I do software development and business strategy for a startup called deltaStack, which works with businesses and companies to build their software infrastructure.
-
-              <br /> <br />
-
-              I am currently a VP Projects for <a href="https://www.facebook.com/westerncsus/?ref=br_rs">CSUS</a>. In September I will be running an open-source project that all students at Western can contribute to, as well as workshops on development and tech skills.
-
-              <br /> <br />
-
-              In my spare time I like to play piano, swim, work out, and eat shawarma.
+              Currently I am an MLH Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a> program, where I will be building Open Source projects with a team of Fellows.
 
               <br /><br />
 
-              I am currently looking for summer opportunities; I love learning, challenging myself, and coding, so <a href="mailto:amir.yalamov@gmail.com">send me a message!</a>
+              I am also the VP Projects for <a href="https://www.facebook.com/westerncsus/?ref=br_rs">CSUS</a>. For the 2020-21 school year I will be running an open-source project to which all students at Western can contribute, as well as workshops on software development and tech skills.
+
+              <br /> <br />
+
+              In the past I've interned at <a href="https://www.td.com/ca/en/personal-banking/">TD Bank</a> coding automation systems and performing high level tech infrastructure analysis.
+
+              <br /> <br />
+
+              I enjoy playing piano, swimming, and eating shawarma.
+
+              <br /><br />
+
+              🔨<b>Currenlty working on:</b> Relaxing
+
+              <br /><br />
+
+              🤔<b>Currenlty learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+
+              <br /><br />
+
+              📖<b>Currenlty reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
+
+              <br /><br />
+
+              Always open to opportunities, so <a href="mailto:amir.yalamov@gmail.com">send me a message!</a>
 
 	          </p>
 	        </div>
