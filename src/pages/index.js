@@ -19,7 +19,11 @@ const Index = () => {
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 
   	          <p>
-              My name is Amir. I am an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing a Specialization in Computer Science with a minor in Software Engineering. I'm interested in theoretical computer science and building cool products.
+              My name is Amir. I am an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing a Specialization in Computer Science with a minor in Software Engineering.
+
+              <br /> <br />
+
+              I'm interested in theoretical computer science and building cool products.
 
               <br /> <br />
 
@@ -27,35 +31,33 @@ const Index = () => {
 
               <br /><br />
 
-              I am also the VP Projects for <a href="https://www.facebook.com/westerncsus/?ref=br_rs">CSUS</a>. For the 2020-21 school year I will be running an open-source project to which all students at Western can contribute, as well as workshops on software development and tech skills.
-
-              <br /> <br />
-
               In the past I've interned at <a href="https://www.td.com/ca/en/personal-banking/">TD Bank</a> coding automation systems and performing high level tech infrastructure analysis.
 
               <br /> <br />
 
               I enjoy playing piano, swimming, and eating shawarma.
 
-              <br /><br />
+                <br /><br />
 
-              🔨<b>Currenlty working on:</b> Relaxing
+                🔨<b>Currently working on:</b> Relaxing
 
-              <br /><br />
+                <br /><br />
 
-              🤔<b>Currenlty learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+                🤔<b>Currently learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
 
-              <br /><br />
+                <br /><br />
 
-              📖<b>Currenlty reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
+                📖<b>Currently reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
 
-              <br /><br />
+                <br /><br />
 
               Always open to opportunities, so <a href="mailto:amir.yalamov@gmail.com">send me a message!</a>
 
 	          </p>
+
 	        </div>
 	        <div className="column"></div>
+
 	      </div>
 	    </div>
 	  </section>
