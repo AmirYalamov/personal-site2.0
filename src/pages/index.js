@@ -23,10 +23,6 @@ const Index = () => {
 
               <br /> <br />
 
-              I'm interested in theoretical computer science and building cool products.
-
-              <br /> <br />
-
               Currently I am an MLH Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a> program, where I will be building Open Source projects with a team of Fellows.
 
               <br /><br />
@@ -35,19 +31,23 @@ const Index = () => {
 
               <br /> <br />
 
+              I'm interested in theoretical computer science and <a href="/projects"> building cool products </a>.
+
+              <br /> <br />
+
               I enjoy playing piano, swimming, and eating shawarma.
 
                 <br /><br />
 
-                🔨<b>Currently working on:</b> Relaxing
+                <b>🔨 Currently working on:</b> Relaxing
 
                 <br /><br />
 
-                🤔<b>Currently learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+                <b>🤔 Currently learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
 
                 <br /><br />
 
-                📖<b>Currently reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
+                <b>📖 Currently reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
 
                 <br /><br />
 
