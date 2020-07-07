@@ -23,7 +23,7 @@ const Index = () => {
 
               <br /> <br />
 
-              Currently I am an MLH Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a> program, where I will be building Open Source projects with a team of Fellows.
+              Currently I am an MLH Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a> program, where I'm building Open Source projects with a team of Fellows.
 
               <br /><br />
 
@@ -39,7 +39,7 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>🔨 Currently working on:</b> Relaxing
+                <b>🔨 Currently working on:</b> Building <a href="https://github.com/alicevision/AliceVision"> computer vision software</a>
 
                 <br /><br />
 
@@ -47,7 +47,7 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>📖 Currently reading:</b> <i> <a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a> by Brian Christian and Tom Griffiths </i>
+                <b>📖 Currently reading:</b> <i> <a href="https://www.amazon.ca/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589841281&sr=1-1">Surely You're Joking, Mr. Feynman!</a>, Richard P. Feynman </i>
 
                 <br /><br />
 

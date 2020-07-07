@@ -15,7 +15,7 @@ Since then, these are all the books I've read, am currently reading, and books I
 
 ### Book(s) I'm Currently Reading
 
-- *<a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a>, Brian Christian, Tom Griffiths*
+- *<a href="https://www.amazon.ca/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589841281&sr=1-1">Surely You're Joking, Mr. Feynman!</a>, Richard P. Feynman*
 
 ### Books I've Read
 
@@ -24,9 +24,16 @@ Since then, these are all the books I've read, am currently reading, and books I
 - *<a href="https://www.amazon.ca/World-Flat-History-Twenty-first-Century-ebook/dp/B000U913GG/ref=sr_1_1?keywords=the+world+is+flat&qid=1589838532&s=digital-text&sr=1-1">The World Is Flat : A Brief History of the Twenty-first Century</a>, Thomas L. Friedman*
 - *<a href="https://www.amazon.ca/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00JTCH382/ref=sr_1_1?keywords=sapiens&qid=1589838592&s=digital-text&sr=1-1">Sapiens: A Brief History of Humankind</a>, Yuval Noah Harari*
 - *<a href="https://www.amazon.ca/Getting-Yes-Negotiating-Agreement-Without-ebook/dp/B0051SDM5Q/ref=sr_1_1?keywords=getting+to+yes&qid=1589838707&s=digital-text&sr=1-1">Getting to Yes: Negotiating Agreement Without Giving In</a>, Roger Fisher, William L. Ury, Bruce Patton*
+- *<a href="https://www.amazon.ca/Algorithms-Live-Computer-Science-Decisions/dp/B071VJ1XHX/ref=sr_1_1?keywords=algorithms+to+live+by&qid=1589838840&s=digital-text&sr=1-1">Algorithms to Live By: The Computer Science of Human Decisions</a>, Brian Christian, Tom Griffiths*
 
 ### Books I Want to Read
 
 - *<a href="https://www.amazon.ca/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589841281&sr=1-1">Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character</a>, Richard P Feynman*
 - *<a href="https://www.amazon.ca/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K/ref=sr_1_1?keywords=primer+on+technology%5C&qid=1589841463&sr=8-1">Swipe to Unlock: The Primer on Technology and Business Strategy</a>, Parth Detroja, Aditya Agashe, Neel Mehta*
 - *<a href="https://www.amazon.ca/Lonely-Planets-Where-When-1st/dp/1786571935/ref=as_li_ss_tl?keywords=where+to+go+when&qid=1587414963&sr=8-1&linkCode=sl1&tag=roxine02-20&linkId=e938b6027a23167c5156c5cf79047e92&language=en_CA">Where To Go When</a>, Lonely Planet, Sarah Baxter, Paul Bloomfield*
+
+- *<a href="https://www.amazon.ca/Your-One-Word-Powerful-Creating/dp/014310909X">Your One Word: The Powerful Secret to Creating a Business and Life That Matter</a>, Evan Carmichael*
+
+- *<a href="https://www.amazon.ca/How-Not-Be-Wrong-Mathematical-ebook/dp/B00G3L6JQ4/ref=sr_1_1?dchild=1&keywords=how+to+not+be+wrong&qid=1591561936&sr=8-1">How Not to Be Wrong: The Power of Mathematical Thinking</a>, Jordan Ellenberg*
+
+- *<a href="https://www.amazon.ca/Storytelling-Animal-Stories-Make-Human-ebook/dp/B005LVR6BO/ref=sr_1_1?dchild=1&keywords=the+storytelling+animal&qid=1591562058&sr=8-1">The Storytelling Animal: How Stories Make Us Human</a>, Jonathan Gottschall*

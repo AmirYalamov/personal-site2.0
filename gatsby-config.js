@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "",
   siteMetadata: {
     title: 'Amir Yalamov Personal Website',
     description: "The personal website of Amir Yalamov who studies at University of Western Ontario, and the site contains his projects, experience, and info.",
