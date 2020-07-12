@@ -42,3 +42,5 @@ Since then, these are all the books I've read, am currently reading, and books I
 - *<a href="https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296">Zero to One</a>, Peter Thiel, Blake Masters*
 
 - *<a href="https://www.amazon.ca/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=msx_wsirn_v1_1/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0393354326&pd_rd_r=2e8ffdc5-00b6-49f1-8675-81c87158544c&pd_rd_w=Vespn&pd_rd_wg=02ehN&pf_rd_p=4f813f9a-219c-4276-b961-dd64dc407a40&pf_rd_r=97CEBMHZW5R0NGXMPXFA&psc=1&refRID=97CEBMHZW5R0NGXMPXFA">Guns, Germs, and Steel: The Fates of Human Societies</a>, Jared Diamond*
+
+- *<a href="https://www.amazon.ca/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=pd_lutyp_qpp_14_5_2/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0553380168&pd_rd_r=658d2d64-8226-4305-ae28-86395957a6ed&pd_rd_w=GibDd&pd_rd_wg=kjxnt&psc=1&refRID=J5D4R3NVXZA8Z76724DX">A Brief History of Time</a>, Stephen Hawking*
