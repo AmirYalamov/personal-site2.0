@@ -36,3 +36,9 @@ Since then, these are all the books I've read, am currently reading, and books I
 - *<a href="https://www.amazon.ca/How-Not-Be-Wrong-Mathematical-ebook/dp/B00G3L6JQ4/ref=sr_1_1?dchild=1&keywords=how+to+not+be+wrong&qid=1591561936&sr=8-1">How Not to Be Wrong: The Power of Mathematical Thinking</a>, Jordan Ellenberg*
 
 - *<a href="https://www.amazon.ca/Storytelling-Animal-Stories-Make-Human-ebook/dp/B005LVR6BO/ref=sr_1_1?dchild=1&keywords=the+storytelling+animal&qid=1591562058&sr=8-1">The Storytelling Animal: How Stories Make Us Human</a>, Jonathan Gottschall*
+
+- *<a href="https://www.amazon.ca/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1594586186&sr=1-1">The Design of Everyday Things</a>, Don Norman*
+
+- *<a href="https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296">Zero to One</a>, Peter Thiel, Blake Masters*
+
+- *<a href="https://www.amazon.ca/Guns-Germs-Steel-Fates-Societies/dp/0393354326/ref=msx_wsirn_v1_1/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0393354326&pd_rd_r=2e8ffdc5-00b6-49f1-8675-81c87158544c&pd_rd_w=Vespn&pd_rd_wg=02ehN&pf_rd_p=4f813f9a-219c-4276-b961-dd64dc407a40&pf_rd_r=97CEBMHZW5R0NGXMPXFA&psc=1&refRID=97CEBMHZW5R0NGXMPXFA">Guns, Germs, and Steel: The Fates of Human Societies</a>, Jared Diamond*
