@@ -34,7 +34,7 @@ const Nav = () => {
           <span>Blog</span>
           </button></a>
 
-          <a href="/resume.pdf"><button class="button is-outlined"> <span class="icon">
+          <a href="/CS_Resume.pdf"><button class="button is-outlined"> <span class="icon">
           <i class="far fa-file"></i>
           </span>
           <span>Résumé</span>
