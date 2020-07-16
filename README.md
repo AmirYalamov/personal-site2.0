@@ -1,6 +1,6 @@
 # personal-site2.0
 
-New personal website done in Gatsby, inspired and attributed by [Arun Kirubarajan](https://kirubarajan.com/)'s [personal website](https://github.com/kirubarajan/blog).
+New personal website done in Gatsby, inspired and attributed by [Arun Kirubarajan](https://github.com/kirubarajan)'s [personal website](https://github.com/kirubarajan/blog).
 
 Steps to use:
 
