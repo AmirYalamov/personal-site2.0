@@ -1,4 +1,7 @@
 module.exports = [{
+      plugin: require('../node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      options: {"plugins":[],"trackingId":"UA-146906116-1"},
+    },{
       plugin: require('../node_modules/gatsby-remark-images/gatsby-browser.js'),
       options: {"plugins":[],"maxWidth":800},
     },{
@@ -7,7 +10,4 @@ module.exports = [{
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
-    },{
-      plugin: require('../node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[],"trackingId":"UA-146906116-1"},
     }]

@@ -1,12 +1,12 @@
 var plugins = [{
+      plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-146906116-1"},
+    },{
       plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"GatsbyJS","short_name":"GatsbyJS","start_url":"/","background_color":"#6b37bf","theme_color":"#6b37bf","display":"standalone","icon":"static/favicon-32x32.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"5ea19b329fbdde0dd70a587030e35fa9"},
     },{
       plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
-    },{
-      plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-146906116-1"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
