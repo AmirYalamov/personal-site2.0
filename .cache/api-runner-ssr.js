@@ -4,6 +4,9 @@ var plugins = [{
     },{
       plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/home/amir/Projects/personal-site2.0/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      options: {"plugins":[],"trackingId":"UA-146906116-1"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
