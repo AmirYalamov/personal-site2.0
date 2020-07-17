@@ -7,5 +7,5 @@ Steps to use:
 1. Clone repo.
 2. `npm install` to install the required dependencies.
 3. Do whatever changes you want, then `git push` all changes.
-4. `npm run deploy` to deploy the website. 
+4. `npm run deploy` to deploy the website. This creates the build on a seperate branch called `gh-pages`.
 5. Enjoy!
