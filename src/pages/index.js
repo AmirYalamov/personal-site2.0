@@ -19,11 +19,11 @@ const Index = () => {
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 
   	          <p>
-              My name is Amir. I am an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing a Specialization in Computer Science with a Minor in Software Engineering.
+              My name is Amir. I am currently an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing an Honours degree in Computer Science.
 
               <br /> <br />
 
-              Currently I am an MLH Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a> program, where I am building computer vision models for <a href="https://alicevision.org/">AliceVision</a>.
+              This past summer I was a Software Engineering Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a>, where I worked on a <a href="https://github.com/alicevision/AliceVision/pull/836">feature matching algorithm</a> for <a href="https://github.com/alicevision/AliceVision">open source computer vision software</a>.
 
               <br /><br />
 
@@ -39,15 +39,15 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>🔨 Currently working on:</b><a href="https://github.com/alicevision/AliceVision"> Computer vision software</a>
+                <b>🔨 Currently working on:</b> Swimming in outdoor pools as much as I can
 
                 <br /><br />
 
-                <b>🤔 Currently learning:</b> <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a>
+                <b>🤔 Currently learning:</b> The physics in outer space (<a href="https://www.amazon.ca/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=pd_lutyp_qpp_14_5_2/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0553380168&pd_rd_r=658d2d64-8226-4305-ae28-86395957a6ed&pd_rd_w=GibDd&pd_rd_wg=kjxnt&psc=1&refRID=J5D4R3NVXZA8Z76724DX">see 📖</a>)
 
                 <br /><br />
 
-                <b>📖 Currently reading:</b> <i> <a href="https://www.amazon.ca/Surely-Youre-Joking-Mr-Feynman/dp/0393355624/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589841281&sr=1-1">Surely You're Joking, Mr. Feynman!</a>, Richard P. Feynman </i>
+                <b>📖 Currently reading:</b> <i> <a href="https://www.amazon.ca/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=pd_lutyp_qpp_14_5_2/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0553380168&pd_rd_r=658d2d64-8226-4305-ae28-86395957a6ed&pd_rd_w=GibDd&pd_rd_wg=kjxnt&psc=1&refRID=J5D4R3NVXZA8Z76724DX">A Brief History of Time</a>, Stephen Hawking</i>
 
                 <br /><br />
 
