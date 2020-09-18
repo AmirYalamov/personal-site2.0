@@ -19,7 +19,7 @@ const Index = () => {
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 
   	          <p>
-              My name is Amir. I am currently an undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing an Honours degree in Computer Science.
+              My name is Amir. I am a 4th year undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing an Honours degree in Computer Science.
 
               <br /> <br />
 
@@ -39,11 +39,11 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>🔨 Currently working on:</b> Swimming in outdoor pools as much as I can
+                <b>🔨 Currently working on:</b> Finding a thesis topic
 
                 <br /><br />
 
-                <b>🤔 Currently learning:</b> The physics in outer space (<a href="https://www.amazon.ca/Brief-History-Time-Stephen-Hawking/dp/0553380168/ref=pd_lutyp_qpp_14_5_2/141-2244380-9779762?_encoding=UTF8&pd_rd_i=0553380168&pd_rd_r=658d2d64-8226-4305-ae28-86395957a6ed&pd_rd_w=GibDd&pd_rd_wg=kjxnt&psc=1&refRID=J5D4R3NVXZA8Z76724DX">see 📖</a>)
+                <b>🤔 Currently learning:</b> <a href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction">Human Computer Interaction</a>
 
                 <br /><br />
 
