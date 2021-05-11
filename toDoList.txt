@@ -2,11 +2,11 @@
 
 To do for Monday, May 11th, 2020:
 
-[] add thumbnail support for blog post cards
+[x] add thumbnail support for blog post cards
     [x] look at https://www.youtube.com/watch?v=XpnZ2e7Jns0 video and see how he adds thumbnails for blog posts
-    [] find out how to add Bulma Box element int JSX
-    [] check if there is better column width once thumbails added
-[] add projects and experiences in blog posts
+    [x] find out how to add Bulma Box element int JSX
+    [x] check if there is better column width once thumbails added
+[x] add projects and experiences in blog posts
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -16,8 +16,8 @@ To do for Thursday, May 14th, 2020:
     [x] test if image can be displayed properly
     [x] find out how to add Bulma Box element int JSX
     [x] check if there is better column width once thumbails added
-[] add projects and experiences in blog posts (add folders back to repo)
-[] add icon for "GitHub Link" text
+[x] add projects and experiences in blog posts (add folders back to repo)
+[x] add icon for "GitHub Link" text
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -48,13 +48,13 @@ To do for Monday, May 18th, 2020:
 
 To do for Tuesday, May 19th, 2020:
 
-[] look into proper hosting
+[x] look into proper hosting
 
 ------------------------------------------------------------------------------------------------------------------------
 
 To do for Wednesday, May 20, 2020:
 
-[] look into hosting issues
+[x] look into hosting issues
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -62,5 +62,6 @@ To do for the future:
 
 [] optimize threading so images load faster
 [] put name at the top of the navbar
+[] remove "Resume" section
 
 ------------------------------------------------------------------------------------------------------------------------
