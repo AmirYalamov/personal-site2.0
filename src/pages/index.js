@@ -19,11 +19,11 @@ const Index = () => {
   	          <h1 className="title"> Hey there, welcome to my website. </h1>
 
   	          <p>
-              My name is Amir. I am a 4th year undergraduate at <a href="https://www.uwo.ca/">Western University</a> pursuing an Honours degree in Computer Science.
+              My name is Amir. I recently graduated from <a href="https://www.uwo.ca/">Western University</a> with an Honours degree in Computer Science.
 
               <br /> <br />
 
-              This past summer I was a Software Engineering Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a>, where I worked on a <a href="https://github.com/alicevision/AliceVision/pull/836">feature matching algorithm</a> for <a href="https://github.com/alicevision/AliceVision">open source computer vision software</a>.
+              The summer of 2020 I was a Software Engineering Fellow for the <a href="https://fellowship.mlh.io/">Major League Hacking Fellowship</a>, where I worked on a <a href="https://github.com/alicevision/AliceVision/pull/836">feature matching algorithm</a> for <a href="https://github.com/alicevision/AliceVision">open source computer vision software</a>.
 
               <br /><br />
 
@@ -39,11 +39,11 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>🔨 Currently working on:</b> Finding a thesis topic
+                <b>🔨 Currently working on:</b> Finding my next opportunity
 
                 <br /><br />
 
-                <b>🤔 Currently learning:</b> <a href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction">Human Computer Interaction</a>
+                <b>🤔 Currently learning:</b> JavaScript
 
                 <br /><br />
 

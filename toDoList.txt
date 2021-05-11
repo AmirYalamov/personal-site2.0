@@ -62,6 +62,12 @@ To do for the future:
 
 [] optimize threading so images load faster
 [] put name at the top of the navbar
-[] remove "Resume" section
+[] remove "Resume" section. If you want to reimplement it:
+    <a href="/resume"><button class="button is-outlined"> <span class="icon">
+    <i class="far fa-file"></i>
+    </span>
+    <span>Résumé</span>
+    </button></a>
+
 
 ------------------------------------------------------------------------------------------------------------------------

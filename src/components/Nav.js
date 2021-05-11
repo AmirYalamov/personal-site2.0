@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 2rem` }}>
     <nav>
-        
+
         <p class="buttons is-outlined is-centered">
 
           <a href="/"><button class="button is-outlined"> <span class="icon">
@@ -34,11 +34,7 @@ const Nav = () => {
           <span>Blog</span>
           </button></a>
 
-          <a href="/CS_Resume.pdf"><button class="button is-outlined"> <span class="icon">
-          <i class="far fa-file"></i>
-          </span>
-          <span>Résumé</span>
-          </button></a>
+
 
         </p>
 
