@@ -1,6 +1,6 @@
 # personal-site2.0
 
-New personal website done in Gatsby, inspired by and attributed to [Arun Kirubarajan](https://github.com/kirubarajan)'s [personal website](https://github.com/kirubarajan/blog).
+New personal website done in Gatsby.
 
 Steps to use:
 
@@ -9,3 +9,5 @@ Steps to use:
 3. Do whatever changes you want, then `git push` all changes.
 4. `npm run deploy` to deploy the website. This creates the build on a seperate branch called `gh-pages`.
 5. Enjoy!
+
+Inspired by and attributed to [Arun Kirubarajan](https://github.com/kirubarajan)'s [personal website](https://github.com/kirubarajan/blog).
