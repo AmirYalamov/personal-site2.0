@@ -39,7 +39,7 @@ const Index = () => {
 
                 <br /><br />
 
-                <b>🔨 Currently working on:</b> building Shopify
+                <b>🔨 Currently working on:</b> finding a desk plant 🌱
 
                 <br /><br />
 
